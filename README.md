@@ -3,7 +3,7 @@ Este desarrollo integra un Asistente OpenAI con widget messegener de Genesys Clo
 
 ## Descripción
 
-Este proyecto integra un asistente desarrollado en Python con un widget de Genesys Cloud para proporcionar una experiencia de interacción completa a través de un chat embebido en una página web. La aplicación está diseñada para gestionar las interacciones con los usuarios y facilitar el acceso a los servicios ofrecidos.
+Este proyecto integra un asistente desarrollado en Python con un widget de Genesys Cloud para proporcionar una experiencia de interacción completa a través de un chat embebido en una página web. La aplicación está diseñada para gestionar las interacciones con los usuarios y facilitar el acceso a los servicios ofrecidos para Incripción de Aspirantes.
 
 ### Características principales
 
