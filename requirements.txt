@@ -1,0 +1,21 @@
+Flask==3.0.2
+Flask-SQLAlchemy==3.1.1
+google-api-core==2.18.0
+google-auth==2.29.0
+google-cloud-bigquery==3.20.1
+google-cloud-core==2.4.1
+google-crc32c==1.5.0
+google-resumable-media==2.7.0
+googleapis-common-protos==1.63.0
+numpy==1.26.4
+openai==1.30.1
+PureCloudPlatformClientV2==201.0.0
+pyasn1==0.6.0
+pyasn1_modules==0.4.0
+pydantic==2.6.0
+pydantic_core==2.16.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+requests==2.31.0
+
+#Versión Python == 3.11.7
